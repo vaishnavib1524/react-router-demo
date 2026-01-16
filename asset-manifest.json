@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vaishnavib1524/react-router-demo/static/css/main.fb665e37.css",
+    "main.js": "/vaishnavib1524/react-router-demo/static/js/main.a7ae8b5d.js",
+    "static/js/453.1f42beb2.chunk.js": "/vaishnavib1524/react-router-demo/static/js/453.1f42beb2.chunk.js",
+    "static/media/logo.svg": "/vaishnavib1524/react-router-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vaishnavib1524/react-router-demo/index.html",
+    "main.fb665e37.css.map": "/vaishnavib1524/react-router-demo/static/css/main.fb665e37.css.map",
+    "main.a7ae8b5d.js.map": "/vaishnavib1524/react-router-demo/static/js/main.a7ae8b5d.js.map",
+    "453.1f42beb2.chunk.js.map": "/vaishnavib1524/react-router-demo/static/js/453.1f42beb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb665e37.css",
+    "static/js/main.a7ae8b5d.js"
+  ]
+}
