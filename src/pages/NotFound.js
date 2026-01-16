@@ -1,0 +1,8 @@
+const NotFound=()=>{
+    return(
+        <h1>
+            This Page is NotFound!!!
+        </h1>
+    )
+}
+export default NotFound;
